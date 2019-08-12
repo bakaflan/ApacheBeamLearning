@@ -1,0 +1,151 @@
+Brand
+GET STARTED
+DOCUMENTATION
+LANGUAGES
+RUNNERS
+ROADMAP
+CONTRIBUTE
+COMMUNITY
+BLOG
+
+Apache Logo
+DOCUMENTATION
+Using the Documentation
+Beam Execution Model
+Pipeline development lifecycle
+Design Your Pipeline
+Create Your Pipeline
+Test Your Pipeline
+Beam programming guide
+Overview
+Pipelines
+PCollections
+Transforms
+Pipeline I/O
+Data encoding and type safety
+Windowing
+Triggers
+Transform catalog
+Common pipeline patterns
+Learning resources
+Beam Wiki
+General
+Fundamentals of Stream Processing with Apache Beam
+Apache Beam: A Unified Model for Batch and Streaming Data Processing
+Fundamentals of Stream Processing with Apache Beam
+Software Engineering Radio Podcast Episode 272: Apache Beam
+Beam & Friends
+Flink and Beam: Current State & Roadmap
+Lessons learned from developing a stream processing platform at scale
+Technical Details
+Watermarks: Time and Progress in Apache Beam and Beyond
+Triggers in Apache Beam
+Next Steps
+Videos and Podcasts
+This page provides links to some of our favorite videos and podcasts that will help you get started and learn more about Apache Beam.
+
+General
+Fundamentals of Stream Processing with Apache Beam
+Apache Beam: A Unified Model for Batch and Streaming Data Processing
+Fundamentals of Stream Processing with Apache Beam
+Software Engineering Radio Podcast Episode 272: Apache Beam
+Beam & Friends
+Flink and Beam: Current State & Roadmap
+Lessons learned from developing a stream processing platform at scale
+Technical Details
+Watermarks: Time and Progress in Apache Beam and Beyond
+Triggers in Apache Beam
+Next Steps
+General
+The following resources provide general overviews and fundamentals of Apache Beam.
+
+Fundamentals of Stream Processing with Apache Beam
+Data Science Summit, Jerusalem, 2016
+
+Presented by Tyler Akidau, Apache Beam PPMC member
+
+
+
+
+Apache Beam: A Unified Model for Batch and Streaming Data Processing
+Hadoop Summit, San Jose, CA, 2016
+
+Presented by Davor Bonaci, Apache Beam PPMC member
+
+
+
+
+Fundamentals of Stream Processing with Apache Beam
+@Scale Conference, San Jose, CA, 2016
+
+Presented by Dan Halperin, Apache Beam PPMC member
+
+
+
+
+Software Engineering Radio Podcast Episode 272: Apache Beam
+Presented by Frances Perry, Apache Beam PPMC member
+
+alt text
+
+Beam & Friends
+The following resources present Apache Beam partnerships.
+
+Flink and Beam: Current State & Roadmap
+Flink Forward, Berlin, 2016
+
+Presented by Maximilian Michels, Apache Beam PPMC member
+
+
+
+
+Lessons learned from developing a stream processing platform at scale
+Big Things Meetup, Tel Aviv, 2016
+
+By Amit Sela, Apache Beam PPMC member
+
+
+
+
+Technical Details
+The following resources provide detailed explanations about technical concepts in Apache Beam.
+
+Watermarks: Time and Progress in Apache Beam and Beyond
+Strata+Hadoop World, New York, 2016
+
+Presented by Slava Chernyak, Software Engineer at Google
+
+
+
+
+Triggers in Apache Beam
+Strata+Hadoop World, New York, 2016
+
+Presented by Kenneth Knowles, Apache Beam PPMC member
+
+
+Next Steps
+Take a self-paced tour through our Learning Resources.
+Beam logo
+Apache logo
+Start
+Overview
+Quickstart (Java)
+Quickstart (Python)
+Quickstart (Go)
+Downloads
+Docs
+Concepts
+Pipelines
+Runners
+Community
+Contribute
+TeamExternal link.
+Media
+Resources
+Blog
+Support
+GitHub
+© The Apache Software Foundation | Privacy Policy | RSS Feed
+
+Apache Beam, Apache, Beam, the Beam logo, and the Apache feather logo are either registered trademarks or trademarks of The Apache Software Foundation. All other products or name brands are trademarks of their respective holders, including The Apache Software Foundation.
